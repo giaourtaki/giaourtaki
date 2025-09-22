@@ -7,7 +7,7 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 * C/C++/C#
 * Java
 * MATLAB
-* MYSQL/SQLite
+* MySQL/SQLite
 * Git
 * Docker
 
