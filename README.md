@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hello World 👋
+I am Marina, currently finishing my degree in Electrical & Computer Engineering in University of Patras. 
 
-<!--
-**giaourtaki/giaourtaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 My skills
+#### Dev Tools & Languages
+* Python
+* C/C++/C#
+* Java
+* MATLAB
+* MYSQL/SQLite
+* Git
+* Docker
 
-Here are some ideas to get you started:
+#### Frameworks & Libraries
+* scikit-learn
+* tensorflow
+* pytorch
+* matplotlib
+* seaborn
+* pandas
+* essensia
+* librosa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Networks & Cybersecurity
+* Wireshark
+* SNMP
+* Linux
+* NMap
+* Nikto
+* Hydra
+
+### 🌱 I'm currenty learning
+* Studying for CCNA certification
+* Cybersecurity basics on TryHackMe
+
+### 🎉 I am excited about
+* Italian Tech Week
+
+### Text me in English! Στείλε μου μήνυμα στα Ελληνικά! Messagami in Italiano!
