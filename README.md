@@ -36,4 +36,4 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 ### 🎉 I am excited about
 * Italian Tech Week
 
-### Text me in English! Στείλε μου μήνυμα στα Ελληνικά! Messaggiami in Italiano!
+### [Text me in English! Στείλε μου μήνυμα στα Ελληνικά! Messaggiami in Italiano!](https://www.linkedin.com/in/marina-diagourta/)
