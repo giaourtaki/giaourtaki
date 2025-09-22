@@ -18,7 +18,7 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 * matplotlib
 * seaborn
 * pandas
-* essensia
+* essentia
 * librosa
 
 #### Networks & Cybersecurity
