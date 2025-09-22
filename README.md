@@ -1,4 +1,4 @@
-## Hello World 👋
+## Hello World! 👋
 I am Marina, currently finishing my degree in Electrical & Computer Engineering in University of Patras. 
 
 ### 👩‍💻 My skills
