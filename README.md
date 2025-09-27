@@ -15,6 +15,7 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 * scikit-learn
 * tensorflow
 * pytorch
+* keras
 * matplotlib
 * seaborn
 * pandas
@@ -23,6 +24,7 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 
 #### Networks & Cybersecurity
 * Wireshark
+* TCP/IP
 * SNMP
 * Linux
 * NMap
@@ -32,6 +34,7 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 ### 🌱 I'm currenty learning
 * Studying for CCNA certification
 * Cybersecurity basics on TryHackMe
+* DoWhy
 
 ### 🎉 I am excited about
 * Italian Tech Week
