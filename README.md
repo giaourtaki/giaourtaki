@@ -6,6 +6,7 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 * Python
 * C/C++/C#
 * Java
+* HTML/CSS
 * MATLAB
 * MySQL/SQLite
 * Git
@@ -33,8 +34,8 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 
 ### 🌱 I'm currenty learning
 * Studying for CCNA certification
-* Cybersecurity basics on TryHackMe
-* DoWhy
+* Cybersecurity concepts on TryHackMe
+* DoWhy python library
 
 ### 🎉 I am excited about
 * Italian Tech Week
