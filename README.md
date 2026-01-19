@@ -3,14 +3,14 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 
 ### 👩‍💻 My skills
 #### Dev Tools & Languages
+* Git
+* Docker
 * Python
 * C/C++/C#
 * Java
 * HTML/CSS
 * MATLAB
 * MySQL/SQLite
-* Git
-* Docker
 
 #### Frameworks & Libraries
 * scikit-learn
@@ -24,20 +24,22 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 * librosa
 
 #### Networks & Cybersecurity
+* Azure Enviroment 
+* Linux Server
+* Windows Server
 * Wireshark
 * TCP/IP
 * SNMP
-* Linux
-* NMap
-* Nikto
-* Hydra
+
 
 ### 🌱 I'm currenty learning
-* Studying for CCNA certification
+* GRC basics on my internship
 * Cybersecurity concepts on TryHackMe
-* DoWhy python library
+* Cybersecurity applied, through Regeneration X Titan bootcamp
+
 
 ### 🎉 I am excited about
-* Italian Tech Week
+* ~~Italian Tech Week~~
+* Information Security Conference
 
 ### [Text me in English! Στείλε μου μήνυμα στα Ελληνικά! Messaggiami in Italiano!](https://www.linkedin.com/in/marina-diagourta/)
