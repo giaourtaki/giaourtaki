@@ -39,8 +39,8 @@ I am Marina, an Electrical & Computer Engineering graduate, currently studying C
 
 
 ### 🎉 I am excited about
-* ~~Italian Tech Week~~ :white_check_mark:
-* ~~Information Security Conference~~ :white_check_mark:
+* ~~Italian Tech Week, Turin~~ Done! :white_check_mark:
+* ~~13th Information Security Conference, Athens~~ Done! :white_check_mark:
 * 12th CASSINI Hackathon: Space for Peace and Resilience
 
 ### [Text me in English! Στείλε μου μήνυμα στα Ελληνικά! Messaggiami in Italiano!](https://www.linkedin.com/in/marina-diagourta/)
