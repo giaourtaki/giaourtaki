@@ -1,5 +1,5 @@
 ## Hello World! 👋
-I am Marina, currently finishing my degree in Electrical & Computer Engineering in University of Patras. 
+I am Marina, an Electrical & Computer Engineering graduate, currently studying Communication Engineering in PoliTo.
 
 ### 👩‍💻 My skills
 #### Dev Tools & Languages
@@ -33,13 +33,14 @@ I am Marina, currently finishing my degree in Electrical & Computer Engineering 
 
 
 ### 🌱 I'm currenty learning
-* GRC basics on my internship
+* ~~GRC basics on my internship~~ Done! :white_check_mark:
 * Cybersecurity concepts on TryHackMe
-* Cybersecurity applied, through Regeneration X Titan bootcamp
+* ~~Cybersecurity applied, through Regeneration X Titan bootcamp~~ Done! :white_check_mark:
 
 
 ### 🎉 I am excited about
-* ~~Italian Tech Week~~
-* Information Security Conference
+* ~~Italian Tech Week~~ :white_check_mark:
+* ~~Information Security Conference~~ :white_check_mark:
+* 12th CASSINI Hackathon: Space for Peace and Resilience
 
 ### [Text me in English! Στείλε μου μήνυμα στα Ελληνικά! Messaggiami in Italiano!](https://www.linkedin.com/in/marina-diagourta/)
